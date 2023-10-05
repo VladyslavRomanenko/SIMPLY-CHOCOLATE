@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-html-css-53-bootcamp/",
+    "build": "vite build --base=/SIMPLY-CHOCOLATE/",
     "preview": "vite preview"
   },
   "devDependencies": {
